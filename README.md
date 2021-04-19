@@ -1,4 +1,4 @@
-(lab-SQLtoPythonViz)
+- (lab-SQLtoPythonViz)
 - A lab from Ironhack to practice SQL queries, data wrangling in Python and visualization in Python and Tableau
 
 
