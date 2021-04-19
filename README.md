@@ -1,8 +1,6 @@
-lab-SQLtoPythonViz
-A lab from Ironhack to practice SQL queries, data wrangling in Python and visualization in Python and Tableau
+(lab-SQLtoPythonViz)
+- A lab from Ironhack to practice SQL queries, data wrangling in Python and visualization in Python and Tableau
 
-
-# Instructions copied from Ironhacks' repo
 
 # Lab | End to End : SQL query & Data Wrangling in Python & Visualise in Python or Tableau
 
