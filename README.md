@@ -13,7 +13,7 @@ In this lab you will be working on [sqlpy-sakila_or_harry.ipynb](sqlpy-sakila_or
 Download the jupyter file to get started. 
 
 When you are on `ssqlpy-sakila_or_harry.ipynb`, read the instructions for each part of the process and provide your answers with the correct code. 
-Make sure to test your answers in each cell and save the notebook.Jupyter Notebook should automatically save your work progress. But it's a good idea to periodically save your work manually just in case.
+Make sure to test your answers in each cell and save the notebook. Jupyter Notebook should automatically save your work progress. But it's a good idea to periodically save your work manually just in case.
 
 
 ## Goals
